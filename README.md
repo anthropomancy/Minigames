@@ -28,3 +28,7 @@ You can play them directly in your browser.
 - Modern clean font, similar to iPhone style  
 
 ## File Structure
+
+
+## License
+This project is open source and free to use.
